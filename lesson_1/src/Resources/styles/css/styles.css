@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+}
+
+hr {
+    margin: 0 5% 0 10%;
+}
+
+.first_line {
+    height: 2px;
+}
+
+.poem_style {
+    font-style: italic;
+}
