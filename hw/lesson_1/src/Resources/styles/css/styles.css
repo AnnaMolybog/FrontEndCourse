@@ -1,15 +1,44 @@
+.container {
+    margin: 25px;
+    line-height: 1.5;
+}
+
 .header {
     text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 10px;
 }
 
 hr {
     margin: 0 5% 0 10%;
 }
 
-.first_line {
-    height: 2px;
+.poem-body {
+    font-style: italic;
+    margin-left: 50px;
 }
 
-.poem_style {
+.poem-footer {
+    font-weight: 900;
+}
+
+.formula {
     font-style: italic;
+}
+
+.letter-container {
+    font-family: 'Marck Script', cursive;
+}
+
+.poem-container {
+    font-family: 'Neucha', cursive;
+}
+
+.formula-container {
+    font-family: 'Bad Script', cursive;
+}
+
+.c-language-container {
+    font-family: 'Marmelad', sans-serif;
 }
