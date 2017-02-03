@@ -62,3 +62,29 @@ hr {
 .c-language-container {
     font-family: 'Marmelad', sans-serif;
 }
+
+.main-container {
+    position: relative;
+    width: 800px;
+    height: 400px;
+    border: solid;
+}
+
+.middle-container {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    border: solid;
+    right: 0;
+    top: 200px;
+    transform: translateY(-50%);
+}
+
+.small-container {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    border: solid;
+    top: 100px;
+    transform: translateY(-50%);
+}
