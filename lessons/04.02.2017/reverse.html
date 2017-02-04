@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        var a = [1,2,3,4,5,6,7];
+        var b = [];
+        var c = [];
+        //document.write(a.reverse());
+        count = a.length;
+        // 1 option
+        for (var i = a.length, j = 0; i >= 1, j < a.length; i--, j++) {
+            b[j] = i;
+        }
+        document.write(b.join("<br>"));
+
+        document.write("<hr>");
+
+        //2 option
+        for (var i = count; i >= 1; i--) {
+            c.push(i);
+        }
+        document.write(c.join("<br>"));
+    </script>
+</head>
+<body>
+
+</body>
+</html>
