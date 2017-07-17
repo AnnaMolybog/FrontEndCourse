@@ -1,0 +1,113 @@
+/*.color-red {*/
+    /*color: red;*/
+/*}*/
+
+/*.color-green {*/
+    /*color: green;*/
+/*}*/
+
+/*.color-blue {*/
+    /*color: blue;*/
+/*}*/
+
+/*a[href^='http://'][href$='.com']{*/
+    /*color: gold;*/
+/*}*/
+
+/*.wrapper:before {*/
+    /*content: 'hello';*/
+    /*color: coral;*/
+/*}*/
+
+/*.wrapper:after {*/
+    /*content: 'bye';*/
+    /*color: burlywood;*/
+/*}*/
+
+/*a {*/
+    /*display: block;*/
+    /*color: blue;*/
+/*}*/
+
+/*a:hover {*/
+    /*color: green;*/
+/*}*/
+
+/*a:active {*/
+    /*color: red;*/
+/*}*/
+
+/*a:focus {*/
+    /*color: blue;*/
+    /*outline: none;*/
+/*}*/
+
+/*a:visited {*/
+    /*color: blueviolet;*/
+/*}*/
+
+/*p:first-child {*/
+    /*color: brown;*/
+/*}*/
+
+/*p:nth-child(2) {*/
+    /*color: chartreuse;*/
+/*}*/
+
+/*div.banner p.hint a {*/
+    /*color: red;*/
+/*}*/
+
+/*div.table {*/
+    /*display: table;*/
+/*}*/
+
+/*div.table-row {*/
+    /*display: table-row;*/
+/*}*/
+
+/*div.table-cell {*/
+    /*display: table-cell;*/
+/*}*/
+
+/*.b {*/
+    /*padding: 50px;*/
+/*}*/
+
+/*.b-1 {*/
+    /*background: blanchedalmond;*/
+/*}*/
+
+/*.b-2 {*/
+    /*background: lightcyan;*/
+    /*float: left;*/
+/*}*/
+
+/*.b-3 {*/
+    /*background: lightgrey;*/
+    /*!*float: right;*!*/
+    /*!*clear: left;*!*/
+    /*!*float: left;*!*/
+/*}*/
+
+/*.b-4 {*/
+    /*background: lightgoldenrodyellow;*/
+/*}*/
+
+/*.clear {*/
+    /*clear: both;*/
+/*}*/
+
+.a {
+    padding: 50px;
+    background: lightblue;
+    /*position: relative;*/
+    /*top:70px;*/
+}
+
+.a-inner {
+    background: lightgoldenrodyellow;
+    /*height: 300px;*/
+    /*position: absolute;*/
+    /*top:120px;*/
+}
