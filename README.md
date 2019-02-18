@@ -1,1 +1,1 @@
-# FrontEndCourse
+# Frontend course assignments and lessons
